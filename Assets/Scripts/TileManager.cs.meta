@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc6f4d1e4afc2bc41af0341791ed91c8
+timeCreated: 1467097716
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - leftTilePrefab: {fileID: 134576, guid: 64cdeedc589218248a01b2af24f10df4, type: 2}
+  - currentTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
